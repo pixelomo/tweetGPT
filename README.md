@@ -11,7 +11,7 @@ This ChatGPT model has been fine-tuned to generate high converting tweets for th
 3. Navigate into the project directory
 
    ```bash
-   $ cd openai-quickstart-node
+   $ cd tweetGPT
    ```
 
 4. Install the requirements
@@ -38,4 +38,4 @@ This ChatGPT model has been fine-tuned to generate high converting tweets for th
    $ npm run dev
    ```
 
-You should now be able to access the app at [http://localhost:3000](http://localhost:3000)! For the full context behind this example app, check out the [tutorial](https://platform.openai.com/docs/quickstart).
+You should now be able to access the app at [http://localhost:3000](http://localhost:3000)
